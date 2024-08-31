@@ -20,7 +20,7 @@ export default function RootLayout({
     <html lang="ja">
       <body className={`${inter.className} bg-gray-200`}>
         <Head />
-        <div>
+        <div className="mb-12">
           {children}
         </div>
         <Footer />
@@ -47,7 +47,7 @@ function Head(){
 
 function Footer(){
   return(
-    <footer className="bg-gray-600 flex justify-center py-2">
+    <footer className="fixed bottom-0 left-0 w-full bg-gray-600 flex justify-center py-2">
       <p className="text-white">© 2024 JapanModsList(code-onigiri)</p>
     </footer>
   )

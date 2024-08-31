@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="175.83223mm"
+   height="30.867897mm"
+   viewBox="0 0 175.83223 30.867897"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2">
+    <rect
+       x="29.378736"
+       y="352.78644"
+       width="715.09601"
+       height="333.02344"
+       id="rect113" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.753802,-112.17135)">
+    <g
+       id="g178"
+       style="stroke-width:1;stroke-dasharray:none"
+       transform="translate(9.2668083,18.723256)">
+      <text
+         xml:space="preserve"
+         transform="scale(0.26458333)"
+         id="text111"
+         style="font-size:74.6667px;line-height:0.7;white-space:pre;shape-inside:url(#rect113);fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
+           x="29.378906"
+           y="407.2938"
+           id="tspan1151"><tspan
+             style="font-style:italic;font-weight:bold;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono Bold Italic'"
+             id="tspan1149">JAPAN-Mods-List
+</tspan></tspan><tspan
+           x="29.378906"
+           y="469.1265"
+           id="tspan1155"><tspan
+             style="font-style:italic;font-weight:bold;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono Bold Italic'"
+             id="tspan1153">-Web</tspan></tspan></text>
+    </g>
+  </g>
+</svg>

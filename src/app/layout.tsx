@@ -47,7 +47,7 @@ function Head(){
 
 function Footer(){
   return(
-    <footer className="fixed bottom-0 left-0 w-full bg-gray-600 flex justify-center py-2">
+    <footer className="bg-gray-600 flex justify-center py-2">
       <p className="text-white">© 2024 JapanModsList(code-onigiri)</p>
     </footer>
   )

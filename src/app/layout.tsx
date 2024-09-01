@@ -20,7 +20,7 @@ export default function RootLayout({
     <html lang="ja">
       <body className={`${inter.className} bg-gray-200`}>
         <Head />
-        <div className="mb-12">
+        <div className="mb-12 mt-20">
           {children}
         </div>
         <Footer />
@@ -31,7 +31,7 @@ export default function RootLayout({
 
 function Head(){
   return(
-    <header className="bg-gray-600 flex justify-center py-2">
+    <header className="fixed top-0 left-0 w-full bg-gray-600 flex justify-center py-2">
       <Link href="/" className="rounded-full px-4 py-1 mx-6 text-lg lg:text-xl text-white bg-gray-600 hover:bg-gray-700">
         Home
       </Link>

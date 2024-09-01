@@ -34,3 +34,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+src/firebase/japanmodslist-web-firebase-adminsdk-3k2ld-5119b78067.json

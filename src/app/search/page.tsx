@@ -40,7 +40,7 @@ function Search() {
         const target = e.target as HTMLInputElement
         const value = target.value
         const filteredEntries = Object.entries(testdb).filter(([key]) => key.includes(value))
-        setState(filteredEntries.length === 0 ? Object.entries(testdb) : filteredEntries)
+        setState(filteredEntries.length === 0 ? [] : filteredEntries)
     }
 
     return (
